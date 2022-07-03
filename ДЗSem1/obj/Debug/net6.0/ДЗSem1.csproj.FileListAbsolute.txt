@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ДЗSem1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ДЗSem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ДЗSem1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ДЗSem1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ДЗSem1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\bin\Debug\net6.0\ДЗSem1.exe
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\bin\Debug\net6.0\ДЗSem1.deps.json
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\bin\Debug\net6.0\ДЗSem1.runtimeconfig.json
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\bin\Debug\net6.0\ДЗSem1.dll
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\bin\Debug\net6.0\ДЗSem1.pdb
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ДЗSem1.dll
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\refint\ДЗSem1.dll
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ДЗSem1.pdb
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ДЗSem1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GeekBrains\C#Tutorial(Seminar)\ДЗSem1\obj\Debug\net6.0\ref\ДЗSem1.dll
