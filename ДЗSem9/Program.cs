@@ -2,7 +2,7 @@
 //в числе N рекурсивным методом.
 
 
-
+/*
 int NumbersQuantity(int N)
 {
     if(N > 10)
@@ -15,7 +15,7 @@ int NumbersQuantity(int N)
 Console.Write("Input a number: ");
 int N = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"The number {N} consists of {NumbersQuantity(N)} digits");
-
+*/
 
 
 // Задайте значения M и N. Напишите программу, 
@@ -38,16 +38,18 @@ int SumNM(int n, int m)
     }
 }
 Console.Write("Input the bigger number: ");
-int n = Convert.ToInt32(Console.ReadLine());
+double n = Convert.ToDouble(Console.ReadLine());
+int N = Convert.ToInt32(n);
 Console.Write("Input the smaller number: ");
-int m = Convert.ToInt32(Console.ReadLine());
-if(SumNM(n, m) == 0)
+double m = Convert.ToDouble(Console.ReadLine());
+int M = Convert.ToInt32(m);
+if(SumNM(N, M) == 0)
 {
     Console.WriteLine("Incorrect numbers.");
 }
 else
 {
-    Console.WriteLine($"The sum of natural numbers between {n} and {m} is {SumNM(n,m)}");
+    Console.WriteLine($"The sum of natural numbers between {n} and {m} is {SumNM(N,M)}");
 }
 Console.WriteLine();
 */
